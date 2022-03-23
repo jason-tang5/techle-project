@@ -1,2 +1,4 @@
-# WORDLE CLONE 
-made in React.js
+# Techle
+Wordle but with tech words instead.
+
+Made in React.js
